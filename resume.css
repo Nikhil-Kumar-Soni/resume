@@ -1,5 +1,6 @@
 body{
-  margin: 50px 100px;
+  margin: 50px 150px;
+  margin-right: 250px;
   /* padding: 52px; */
   text-align: justify;
   /* font-size: 10px; */
@@ -32,12 +33,12 @@ body{
   float: calc(50px);
   color: red;
 } */
-#linked{
+/* #linked{
 /* font-style: italic; */
-position: relative;
-left: 400px;
+/* position: relative;
+left: 400px; */
 /* color: red; */
-}
+/* }  */
 @media (max-width:750px) {
   #linked{
     width:100%;
